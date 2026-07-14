@@ -1,3 +1,14 @@
+# Problem: 3336. Find the Number of Subsequences With Equal GCD
+# Platform: LeetCode
+# Difficulty: Hard
+# Pattern: Dynamic Programming, GCD, State DP
+# Time Complexity: O(n × M²)
+# Space Complexity: O(M²)
+
+from math import gcd
+
+class Solution:
+    ...
 from math import gcd
 from typing import List
 class Solution:
