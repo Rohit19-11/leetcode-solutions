@@ -31,7 +31,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Solved |
 |--------|--------|
-| Arrays | 3 |
+| Arrays | 4 |
 | Strings | 0 |
 | HashMap | 0 |
 | Two Pointers | 0 |
@@ -45,6 +45,6 @@ Welcome to my LeetCode solutions repository!
 | Heap | 0 |
 | Greedy | 0 |
 | Math | 1 |
-| Dynamic Programming | 1 |
+| Dynamic Programming | 2 |
 
-**Total Problems Solved:** 5  ****
+**Total Problems Solved:** 7  ****
